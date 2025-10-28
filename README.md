@@ -34,7 +34,7 @@
 
 ### 📫 How to Reach Me
 <p align="left">
-  <a href="mailto:er.sushantspaqtil27@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:er.sushantspatil27@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://linkedin.com/in/sushant-patil-08b1ba282" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/sushantpatil-tech" target="blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
@@ -47,7 +47,6 @@
 - 🤖 **Artificial Intelligence & Generative AI**  
 - 🧠 **Problem Solving & Learning New Technologies**  
 
-📚 Check out my blogs on [**Medium**](#) or [**Hashnode**](#)
 
 ---
 
@@ -79,9 +78,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushantpatil-tech&layout=compact&theme=tokyonight" alt="Top languages" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sushantpatil-tech&theme=tokyonight" alt="GitHub streak" />
-</p>
 
 ---
 

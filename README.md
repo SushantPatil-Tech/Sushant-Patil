@@ -39,7 +39,7 @@
 ---
 
 ### ⚡ Fun Fact
-> Just a guy with a keyboard 👨‍💻 ... and way too many browser tabs open 😅
+Just vibing with VS Code 🎧
 
 ---
 
@@ -53,9 +53,8 @@
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sushantpatil-tech&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sushantpatil-tech&theme=tokyonight" alt="GitHub streak stats" />
 </p>
 
 ---
 
-⭐ **“Code. Learn. Grow. Repeat.”**
+⭐ **“Just building, breaking, and learning 🚀”**

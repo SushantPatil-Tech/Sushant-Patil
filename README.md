@@ -74,11 +74,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=sushantpatil-tech&show_icons=true&theme=tokyonight" alt="GitHub stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushantpatil-tech&layout=compact&theme=tokyonight" alt="Top languages" />
-</p>
-
-
 ---
 
 ⭐ **“Code. Learn. Grow. Repeat.”**
